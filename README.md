@@ -1,52 +1,43 @@
 # Roge ⚡
-**The Ultimate Gesture Control Experience for Android**
+**The Ultimate Material 3 Expressive Gesture Experience**
 
-![Material 3 Design](https://img.shields.io/badge/Design-Material%203%20Expressive-purple?style=for-the-badge&logo=materialdesign)
+![Material 3 Design](https://img.shields.io/badge/Design-Material%203%20Expressive%202025-purple?style=for-the-badge&logo=materialdesign)
 ![Android](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue?style=for-the-badge&logo=kotlin)
 
-**Roge** redefines how you interact with your Android device. By leveraging advanced accessibility services and sensor fusion, Roge empowers you to control your phone with intuitive gestures, motion, and touch—giving you god-mode control over your experience.
+**Roge** is a minimalist yet powerful utility that brings the future of Android interaction to your device today. Built with the cutting-edge **Material 3 Expressive (May 2025)** guidelines, Roge offers a fluid, vibrant, and tactile experience centered around a single, highly customizable sensor gesture.
 
 ---
 
 ## ✨ Key Features
 
-### 👆 Screen Gestures
-*   **Double Tap**: Instantly toggle flashlight, launch apps, or lock screen.
-*   **Swipe & Pinch**: Navigate menus and control media with fluid finger movements.
-*   **3-Finger Actions**: Capture screenshots or start recording in a flash.
+### 📡 Proximity Mastery
+Control your device without even touching the screen. By waving your hand over the proximity sensor (located at the top of your phone), you can trigger a variety of essential actions:
+*   **Expand Notifications** (Default)
+*   **Quick Settings Access**
+*   **Go Home**
+*   **Go Back**
+*   **Recent Apps Switcher**
+*   **Power Menu**
+*   **Lock Screen**
 
-### 📳 Motion Magic
-*   **Shake to Wake**: Shake your phone to turn on the flashlight or launch the camera.
-*   **Flip to Mute**: Silence incoming calls or alarms simply by flipping your phone face down.
-*   **Raise to Ear**: Automatically answer calls without touching a button.
-
-### 🎛️ Button & Sensor Mastery
-*   **Power & Volume Combos**: Remap physical buttons for custom shortcuts.
-*   **Proximity Actions**: Wave over your phone to control music or silence notifications.
-
-### 🚀 Advanced Control (Root)
-*   Unlock system-level commands, Tasker integration, and deep automation scripts for the power user.
+### 🎨 Material 3 Expressive (2025)
+Experience the latest evolution of Android design:
+*   **Vibrant Palette**: A bold, high-contrast color scheme (Neon Purple, Electric Cyan, Neon Pink).
+*   **Fluid Motion**: Bouncy, spring-based animations that make the UI feel alive.
+*   **Expressive Shapes**: Friendly, extra-large rounded corners and asymmetrical design elements.
+*   **Integrated Haptics**: Precise tactile feedback for every interaction, making the digital feel physical.
 
 ---
 
 ## 🛠️ Built With Modern Tech
 
-Roge is engineered with the latest Android technologies to ensure performance, battery efficiency, and a stunning user interface.
-
-*   **Language**: [Kotlin](https://kotlinlang.org/) - 100% modern, safe, and concise.
-*   **UI Framework**: [Jetpack Compose](https://developer.android.com/jetpack/compose) - Building native UI with declarative code.
-*   **Design System**: **Material 3 Expressive** - Utilizing Google's latest 2025 design guidelines for vibrant colors, dynamic shapes, and emotional UX.
-*   **Architecture**: Clean Architecture (MVVM) with a focus on modularity and testability.
+*   **Language**: [Kotlin](https://kotlinlang.org/) - 100% modern and safe.
+*   **UI Framework**: [Jetpack Compose](https://developer.android.com/jetpack/compose) - Declarative UI for fluid animations.
+*   **Design System**: **Material 3 Expressive** - Utilizing the latest 2025 Google design tokens.
 *   **Core Services**:
-    *   `AccessibilityService`: For precise gesture detection and global actions.
-    *   `SensorManager`: For low-latency accelerometer and gyroscope processing.
-
----
-
-## 📸 Screenshots
-
-*(Add your screenshots here)*
+    *   `AccessibilityService`: For executing global system actions.
+    *   `SensorManager`: For low-latency proximity detection.
 
 ---
 
