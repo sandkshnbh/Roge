@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Roge</string>
+    <string name="accessibility_service_description">Roge Accessibility Service allows you to perform custom gestures and actions.</string>
+</resources>
